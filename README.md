@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minhajiqball
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android development based on kotlin
-- 💞️ I’m looking to collaborate on andriod applications.
+- 👀 I’m interested in API development
+- 🌱 I’m currently learning web development 
+- 💞️ I’m looking to collaborate on web applications based on MERN stack.
 - 📫 Reach me at @minhajiqball on twitter or Instagram
 - also on Minhajbiniqbal@gmail.com
 
