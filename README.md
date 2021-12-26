@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @minhajiqball
+- 👋 Hi, I’m Minhaj Iqbal
 - 👀 I’m interested in API development
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on web applications based on MERN stack.
-- 📫 Reach me at @minhajiqball on twitter or Instagram 
+- 📫 Reach me at -[Twitter](https://twitter.com/minhajiqball) or -[Instagram](https://www.instagram.com/minhajiqball/) 
 - or mail me at -[@minhajiqball](Minhajbiniqbal@gmail.com)
 
 <!---
