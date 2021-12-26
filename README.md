@@ -2,8 +2,8 @@
 - 👀 I’m interested in API development
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on web applications based on MERN stack.
-- 📫 Reach me at @minhajiqball on twitter or Instagram
-- also on Minhajbiniqbal@gmail.com
+- 📫 Reach me at @minhajiqball on twitter or Instagram 
+- or mail me at -[@minhajiqball](Minhajbiniqbal@gmail.com)
 
 <!---
 minhajiqball/minhajiqball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
